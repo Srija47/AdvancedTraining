@@ -1,0 +1,13 @@
+C:\Users\win8.1\source\repos\AdvancedTraining\Classes,and_it's_types,Interfaces\IntroToClass\obj\Debug\netcoreapp3.1\IntroToClass.csprojAssemblyReference.cache
+C:\Users\win8.1\source\repos\AdvancedTraining\Classes,and_it's_types,Interfaces\IntroToClass\obj\Debug\netcoreapp3.1\IntroToClass.csproj.CoreCompileInputs.cache
+C:\Users\win8.1\source\repos\AdvancedTraining\Classes,and_it's_types,Interfaces\IntroToClass\obj\Debug\netcoreapp3.1\IntroToClass.AssemblyInfoInputs.cache
+C:\Users\win8.1\source\repos\AdvancedTraining\Classes,and_it's_types,Interfaces\IntroToClass\obj\Debug\netcoreapp3.1\IntroToClass.AssemblyInfo.cs
+C:\Users\win8.1\source\repos\AdvancedTraining\Classes,and_it's_types,Interfaces\IntroToClass\bin\Debug\netcoreapp3.1\IntroToClass.exe
+C:\Users\win8.1\source\repos\AdvancedTraining\Classes,and_it's_types,Interfaces\IntroToClass\bin\Debug\netcoreapp3.1\IntroToClass.deps.json
+C:\Users\win8.1\source\repos\AdvancedTraining\Classes,and_it's_types,Interfaces\IntroToClass\bin\Debug\netcoreapp3.1\IntroToClass.runtimeconfig.json
+C:\Users\win8.1\source\repos\AdvancedTraining\Classes,and_it's_types,Interfaces\IntroToClass\bin\Debug\netcoreapp3.1\IntroToClass.runtimeconfig.dev.json
+C:\Users\win8.1\source\repos\AdvancedTraining\Classes,and_it's_types,Interfaces\IntroToClass\bin\Debug\netcoreapp3.1\IntroToClass.dll
+C:\Users\win8.1\source\repos\AdvancedTraining\Classes,and_it's_types,Interfaces\IntroToClass\bin\Debug\netcoreapp3.1\IntroToClass.pdb
+C:\Users\win8.1\source\repos\AdvancedTraining\Classes,and_it's_types,Interfaces\IntroToClass\obj\Debug\netcoreapp3.1\IntroToClass.dll
+C:\Users\win8.1\source\repos\AdvancedTraining\Classes,and_it's_types,Interfaces\IntroToClass\obj\Debug\netcoreapp3.1\IntroToClass.pdb
+C:\Users\win8.1\source\repos\AdvancedTraining\Classes,and_it's_types,Interfaces\IntroToClass\obj\Debug\netcoreapp3.1\IntroToClass.genruntimeconfig.cache

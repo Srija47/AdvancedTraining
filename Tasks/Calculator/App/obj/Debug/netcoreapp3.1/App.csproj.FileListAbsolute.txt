@@ -1,0 +1,16 @@
+C:\Users\win8.1\source\repos\AdvancedTraining\Tasks\Calculator\App\obj\Debug\netcoreapp3.1\App.csprojAssemblyReference.cache
+C:\Users\win8.1\source\repos\AdvancedTraining\Tasks\Calculator\App\obj\Debug\netcoreapp3.1\App.csproj.CoreCompileInputs.cache
+C:\Users\win8.1\source\repos\AdvancedTraining\Tasks\Calculator\App\obj\Debug\netcoreapp3.1\App.AssemblyInfoInputs.cache
+C:\Users\win8.1\source\repos\AdvancedTraining\Tasks\Calculator\App\obj\Debug\netcoreapp3.1\App.AssemblyInfo.cs
+C:\Users\win8.1\source\repos\AdvancedTraining\Tasks\Calculator\App\bin\Debug\netcoreapp3.1\App.exe
+C:\Users\win8.1\source\repos\AdvancedTraining\Tasks\Calculator\App\bin\Debug\netcoreapp3.1\App.deps.json
+C:\Users\win8.1\source\repos\AdvancedTraining\Tasks\Calculator\App\bin\Debug\netcoreapp3.1\App.runtimeconfig.json
+C:\Users\win8.1\source\repos\AdvancedTraining\Tasks\Calculator\App\bin\Debug\netcoreapp3.1\App.runtimeconfig.dev.json
+C:\Users\win8.1\source\repos\AdvancedTraining\Tasks\Calculator\App\bin\Debug\netcoreapp3.1\App.dll
+C:\Users\win8.1\source\repos\AdvancedTraining\Tasks\Calculator\App\bin\Debug\netcoreapp3.1\App.pdb
+C:\Users\win8.1\source\repos\AdvancedTraining\Tasks\Calculator\App\obj\Debug\netcoreapp3.1\App.csproj.CopyComplete
+C:\Users\win8.1\source\repos\AdvancedTraining\Tasks\Calculator\App\obj\Debug\netcoreapp3.1\App.dll
+C:\Users\win8.1\source\repos\AdvancedTraining\Tasks\Calculator\App\obj\Debug\netcoreapp3.1\App.pdb
+C:\Users\win8.1\source\repos\AdvancedTraining\Tasks\Calculator\App\obj\Debug\netcoreapp3.1\App.genruntimeconfig.cache
+C:\Users\win8.1\source\repos\AdvancedTraining\Tasks\Calculator\App\bin\Debug\netcoreapp3.1\Calculate.dll
+C:\Users\win8.1\source\repos\AdvancedTraining\Tasks\Calculator\App\bin\Debug\netcoreapp3.1\Calculate.pdb

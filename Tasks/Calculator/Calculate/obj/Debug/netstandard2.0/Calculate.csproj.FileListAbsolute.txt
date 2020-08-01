@@ -1,0 +1,9 @@
+C:\Users\win8.1\source\repos\AdvancedTraining\Tasks\Calculator\Calculate\bin\Debug\netstandard2.0\Calculate.deps.json
+C:\Users\win8.1\source\repos\AdvancedTraining\Tasks\Calculator\Calculate\bin\Debug\netstandard2.0\Calculate.dll
+C:\Users\win8.1\source\repos\AdvancedTraining\Tasks\Calculator\Calculate\bin\Debug\netstandard2.0\Calculate.pdb
+C:\Users\win8.1\source\repos\AdvancedTraining\Tasks\Calculator\Calculate\obj\Debug\netstandard2.0\Calculate.csprojAssemblyReference.cache
+C:\Users\win8.1\source\repos\AdvancedTraining\Tasks\Calculator\Calculate\obj\Debug\netstandard2.0\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\win8.1\source\repos\AdvancedTraining\Tasks\Calculator\Calculate\obj\Debug\netstandard2.0\Calculate.AssemblyInfoInputs.cache
+C:\Users\win8.1\source\repos\AdvancedTraining\Tasks\Calculator\Calculate\obj\Debug\netstandard2.0\Calculate.AssemblyInfo.cs
+C:\Users\win8.1\source\repos\AdvancedTraining\Tasks\Calculator\Calculate\obj\Debug\netstandard2.0\Calculate.dll
+C:\Users\win8.1\source\repos\AdvancedTraining\Tasks\Calculator\Calculate\obj\Debug\netstandard2.0\Calculate.pdb

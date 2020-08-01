@@ -1,0 +1,4 @@
+C:\Users\win8.1\source\repos\AdvancedTraining\Classes,and_it's_types,Interfaces\StaticClass\obj\Debug\netcoreapp3.1\StaticClass.csprojAssemblyReference.cache
+C:\Users\win8.1\source\repos\AdvancedTraining\Classes,and_it's_types,Interfaces\StaticClass\obj\Debug\netcoreapp3.1\StaticClass.csproj.CoreCompileInputs.cache
+C:\Users\win8.1\source\repos\AdvancedTraining\Classes,and_it's_types,Interfaces\StaticClass\obj\Debug\netcoreapp3.1\StaticClass.AssemblyInfoInputs.cache
+C:\Users\win8.1\source\repos\AdvancedTraining\Classes,and_it's_types,Interfaces\StaticClass\obj\Debug\netcoreapp3.1\StaticClass.AssemblyInfo.cs

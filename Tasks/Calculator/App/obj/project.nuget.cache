@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "z8VFVeVggDCot3gnGBX4NAatOofXBJgpAjjAP0MWoREMiQ8dBenx2fg6QmftITI8KDMk+Szz/kEGodpuveTrTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\win8.1\\source\\repos\\AdvancedTraining\\Tasks\\Calculator\\App\\App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\win8.1\\.nuget\\packages\\calculate\\1.1.1\\calculate.1.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

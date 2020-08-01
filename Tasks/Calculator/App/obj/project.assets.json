@@ -1,0 +1,98 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "calculate/1.1.1": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/calculate.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/calculate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "calculate/1.1.1": {
+      "type": "project",
+      "path": "../Calculate/Calculate.csproj",
+      "msbuildProject": "../Calculate/Calculate.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Calculate >= 1.1.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\win8.1\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\win8.1\\source\\repos\\AdvancedTraining\\Tasks\\Calculator\\App\\App.csproj",
+      "projectName": "App",
+      "projectPath": "C:\\Users\\win8.1\\source\\repos\\AdvancedTraining\\Tasks\\Calculator\\App\\App.csproj",
+      "packagesPath": "C:\\Users\\win8.1\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\win8.1\\source\\repos\\AdvancedTraining\\Tasks\\Calculator\\App\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\win8.1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Users\\win8.1\\source\\repos\\AdvancedTraining\\Tasks\\Calculator\\Calculate\\bin\\Debug": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\win8.1\\source\\repos\\AdvancedTraining\\Tasks\\Calculator\\Calculate\\Calculate.csproj": {
+              "projectPath": "C:\\Users\\win8.1\\source\\repos\\AdvancedTraining\\Tasks\\Calculator\\Calculate\\Calculate.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "Calculate": {
+            "target": "Package",
+            "version": "[1.1.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\win8.1\source\repos\AdvancedTraining\Classes,and_it's_types,Interfaces\Methods\obj\Debug\netcoreapp3.1\Methods.csprojAssemblyReference.cache
+C:\Users\win8.1\source\repos\AdvancedTraining\Classes,and_it's_types,Interfaces\Methods\obj\Debug\netcoreapp3.1\Methods.csproj.CoreCompileInputs.cache
+C:\Users\win8.1\source\repos\AdvancedTraining\Classes,and_it's_types,Interfaces\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfoInputs.cache
+C:\Users\win8.1\source\repos\AdvancedTraining\Classes,and_it's_types,Interfaces\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfo.cs
+C:\Users\win8.1\source\repos\AdvancedTraining\Classes,and_it's_types,Interfaces\Methods\bin\Debug\netcoreapp3.1\Methods.exe
+C:\Users\win8.1\source\repos\AdvancedTraining\Classes,and_it's_types,Interfaces\Methods\bin\Debug\netcoreapp3.1\Methods.deps.json
+C:\Users\win8.1\source\repos\AdvancedTraining\Classes,and_it's_types,Interfaces\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.json
+C:\Users\win8.1\source\repos\AdvancedTraining\Classes,and_it's_types,Interfaces\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.dev.json
+C:\Users\win8.1\source\repos\AdvancedTraining\Classes,and_it's_types,Interfaces\Methods\bin\Debug\netcoreapp3.1\Methods.dll
+C:\Users\win8.1\source\repos\AdvancedTraining\Classes,and_it's_types,Interfaces\Methods\bin\Debug\netcoreapp3.1\Methods.pdb
+C:\Users\win8.1\source\repos\AdvancedTraining\Classes,and_it's_types,Interfaces\Methods\obj\Debug\netcoreapp3.1\Methods.dll
+C:\Users\win8.1\source\repos\AdvancedTraining\Classes,and_it's_types,Interfaces\Methods\obj\Debug\netcoreapp3.1\Methods.pdb
+C:\Users\win8.1\source\repos\AdvancedTraining\Classes,and_it's_types,Interfaces\Methods\obj\Debug\netcoreapp3.1\Methods.genruntimeconfig.cache
